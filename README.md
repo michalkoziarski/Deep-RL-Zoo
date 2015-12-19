@@ -8,7 +8,7 @@ Currently looking for trained models. If you have some consider contributing.
 
 ## deep_q_rl models
 
-The following are in the format gamename_datetrained_epoch_gitsha1. The sha1's mentioned are from https://github.com/alito/deep_q_rl (or from https://github.com/alito/deep_q_rl/tree/rl_glue for the NIPS models)
+The following are in the format gamename_datetrained_epoch_gitsha1. The sha1's mentioned are from https://github.com/alito/deep_q_rl or from https://github.com/alito/deep_q_rl/tree/rl_glue for the NIPS models. You may be able to watch them play using newer code as long as you select the right model (Nature unless otherwise specified).
 
 * http://organicrobot.com/deepqrl/atlantis_20151122_e78_94f7d724f69291ecfe23ac656aef38c63a776b8d.pkl.gz
 * http://organicrobot.com/deepqrl/boxing_20150731_e41_c9e7447b005e23202055a22c5b902cf244203ebe.pkl.gz
